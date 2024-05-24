@@ -20,6 +20,9 @@ in the clause that is syntactically bound to the connective)
 ## Citation
 If you use this data in any published research, please cite the following:
 
+- Ai Kubota, Takuma Sato, Takayuki Amamoto, Ryota Akiyoshi, and Koji Mineshima. 2024. [Annotation of Japanese Discourse Relations Focusing on Concessive Inferences](https://aclanthology.org/2024.lrec-main.109/). In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 1215–1224.
+
+
 ```
 @inproceedings{kubota-etal-2024-annotation-japanese,
     title = "Annotation of {J}apanese Discourse Relations Focusing on Concessive Inferences",
@@ -42,4 +45,4 @@ For questions, please contact minesima@abelard.flet.keio.ac.jp.
 
 ## License
 
-https://creativecommons.org/licenses/by-sa/4.0/
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
