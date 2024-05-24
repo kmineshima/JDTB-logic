@@ -1,10 +1,10 @@
-# Japanese Discourse Relation Treebank focusing on Concessive Relations
+# Japanese Discourse Relations Focusing on Concessive Relations
 
 A repositor for our LREC-COLING2024 paper "Annotation of Japanese Discourse Relations Focusing on Concessive Inferences."
 
 ## Data
 
-The fields in the files `data/nagara.tsv`, `data/tsutsu.tsv`, `data/tokorode.tsv` are defined as follows:
+The fields in the files `data/nagara.tsv`, `data/tsutsu.tsv`, and `data/tokorode.tsv` are as follows:
 
 - `kainoki_id`: ID in [the Kainoki Treebank](https://kainoki.github.io/)
 - `first_half`: The first half of the sentence where the connective appears
@@ -33,8 +33,6 @@ If you use this data in any published research, please cite the following:
       Mineshima, Koji",
     booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
     year = "2024",
-    address = "Torino, Italia",
-    url = "https://aclanthology.org/2024.lrec-main.109",
     pages = "1215--1224"
 }
 ```
