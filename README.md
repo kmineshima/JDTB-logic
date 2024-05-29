@@ -1,6 +1,6 @@
 # Japanese Discourse Relations Focusing on Concessive Relations
 
-A repositor for our LREC-COLING2024 paper "Annotation of Japanese Discourse Relations Focusing on Concessive Inferences."
+A repository for our LREC-COLING2024 paper "Annotation of Japanese Discourse Relations Focusing on Concessive Inferences."
 
 ## Data
 
